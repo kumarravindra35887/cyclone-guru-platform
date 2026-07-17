@@ -1,33 +1,67 @@
+<<<<<<< HEAD
+# CYCLONE GURU ACADEMY
+
+Enterprise Education Platform
+
+---
+
+## Official Repositories
+
+### Documentation
+
+cyclone-guru-docs
+
+### Source Code
+
+cyclone-guru-platform
+
+---
+
+## Components
+
+- Android App
+- Website
+- Admin Portal
+- Founder Portal
+- Backend
+- Database
+- AI Studio
+- Shared Libraries
+
+---
+
+## Development Status
+
+Planning Phase
+
+---
+=======
 CYCLONE GURU ACADEMY
 
-Founder:
-Gajendra Kumar Yogi
+Official Source Repository
+>>>>>>> abc68fc (Project Foundation)
 
-Official Project Repository
+Founder
+
+Gajendra Kumar Yogi
+<<<<<<< HEAD
+=======
+
+Project Type
+
+Education Platform
 
 Modules
 
-- Admin Dashboard
-- Student App
-- Firebase Backend
-- AI Engine
-- Website
-- Documentation
-- Design
-- Assets
+Admin Dashboard
 
-Development Status
+Student App
 
-Project Started
+Firebase
 
-Repository Structure
+Documentation
 
-admin_dashboard/
-student_app/
-backend/
-website/
-ai/
-documentation/
-design/
-assets/
-README.md
+Status
+
+Development Started
+>>>>>>> abc68fc (Project Foundation)
